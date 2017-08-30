@@ -1,0 +1,5 @@
+# Execute every minutes 
+1-59/6 18-22/1 * 8 1-4,6 cd /home/1050391/Dropbox/Taishin/system/eol; ./go_eol 1050391
+1-59/10 16-23/2 * 9 1-3,6 cd /home/1050391/Dropbox/Taishin/system/eol; ./go_eol 1050391
+1-59/18 20-22/1 * 8,9 1-3,6 cd /home/1050391/Dropbox/Taishin/system/eol; ./go_eol_2 1050391
+
