@@ -3,6 +3,6 @@
 ## Usage
 
 ```shell
-
+$ ./go_eol_2.sh
 ```
 
